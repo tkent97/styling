@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    padding: 10px;
+}
+
+h1{
+    background: black;
+    color: lightblue;
+    margin-bottom: 10px;
+}
+
+span{
+    color: white; 
+}
+
+h2{
+    background: purple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+h3{
+    background: lightblue;
+    text-decoration: underline;
+    text-align: right;
+}
+
+
+
+
+
